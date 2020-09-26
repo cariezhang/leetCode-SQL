@@ -1,4 +1,4 @@
-# 262
+# 262 ok
 """
 SELECT t.Request_at AS "Day", 
         CAST(SUM(CASE 
